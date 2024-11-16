@@ -1,0 +1,1 @@
+# Scraping_data_for_Alpha_Stores_Brazil_with_Python
